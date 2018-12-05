@@ -1,0 +1,13 @@
+{
+  "name": "soa-php/clock",
+  "description": "Manage time in a decoupled way",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Soa\\Clock\\": "src/"
+    }
+  }
+}
